@@ -10,15 +10,7 @@
 
 ## 재귀
 
-https://www.acmicpc.net/problem/2504 실버 2 (3.13)
-
-
-
 ## 스택,큐,덱
-
-https://www.acmicpc.net/problem/7662 골드 5 (3.13)
-
-https://www.acmicpc.net/problem/11286 실버 1 (3.13)
 
 ## 구현
 
@@ -28,27 +20,7 @@ https://www.acmicpc.net/problem/1759 골드 5 (3.12)
 
 https://www.acmicpc.net/problem/1182 실버 2 (3.12)
 
-
-
-https://www.acmicpc.net/problem/1012 실버 2 (3.13)
-
-https://www.acmicpc.net/problem/1697 실버 2 (3.13)
-
-https://www.acmicpc.net/problem/6603 실버 2 (3.13)
-
-https://www.acmicpc.net/problem/7562 실버 2 (3.13)
-
-https://www.acmicpc.net/problem/7569 골드 5 (3.13)
-
-https://www.acmicpc.net/problem/7576 골드 5 (3.13)
-
-
-
-
-
 ## 그리디
-
-https://www.acmicpc.net/problem/1931 실버 2 (3.13)
 
 ## 투포인터
 
