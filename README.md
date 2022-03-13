@@ -33,6 +33,10 @@ https://www.acmicpc.net/problem/14888 - 실버 1 (3.13)
 ### Jeong_WR
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
 
+### TaeTae
+
+https://www.acmicpc.net/problem/1941 - 골드 3 (3.13)
+
 ## 그리디
 
 ## 투포인터
