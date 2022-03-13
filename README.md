@@ -28,6 +28,9 @@ https://www.acmicpc.net/problem/1062 - 골드 5 (3.11)
 
 https://www.acmicpc.net/problem/14888 - 실버 1 (3.13)
 
+### Jeong_WR
+https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
+
 ## 그리디
 
 ## 투포인터
