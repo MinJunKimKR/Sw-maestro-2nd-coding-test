@@ -36,6 +36,10 @@ https://www.acmicpc.net/problem/14888 - 실버 1 (3.13)
 
 ## DP
 
+### TaeTae
+
+https://www.acmicpc.net/problem/1149 - 실버 1 (3.13)
+
 ---
 
 # 대시보드
