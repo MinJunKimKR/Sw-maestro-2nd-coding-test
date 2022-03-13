@@ -40,6 +40,7 @@ https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
 ### TaeTae
 
 https://www.acmicpc.net/problem/1941 - 골드 3 (3.13)
+https://www.acmicpc.net/problem/5014 - 골드 5 (3.13)
 
 ## 그리디
 
