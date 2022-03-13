@@ -23,6 +23,8 @@ https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3 - 레�
 ### MJ
 
 https://www.acmicpc.net/problem/1062 - 골드 5 (3.11)
+https://www.acmicpc.net/problem/1525 - 골드 2 (3.13)
+https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
 
 ### Charlie
 
