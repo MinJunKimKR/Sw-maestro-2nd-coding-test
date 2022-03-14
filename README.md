@@ -43,6 +43,7 @@ https://www.acmicpc.net/problem/1062 - 골드 4 (3.14)
 
 ### Jeong_WR
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
+https://www.acmicpc.net/problem/4195 - 골드 2 (3.14)
 
 ### TaeTae
 
