@@ -20,7 +20,13 @@ https://www.acmicpc.net/problem/17478 - 실버 5 (3.13)
 
 https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3 - 레벨 2 (3.11)
 
+### Charlie
+https://www.acmicpc.net/problem/2504 - 실버 2 (3.14)
+
 ## 구현
+
+### Charlie
+https://www.acmicpc.net/problem/14719 - 골드 5 (3.14)
 
 ## 완전탐색, BFS, DFS
 
@@ -33,6 +39,7 @@ https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
 ### Charlie
 
 https://www.acmicpc.net/problem/14888 - 실버 1 (3.13)
+https://www.acmicpc.net/problem/1062 - 골드 4 (3.14)
 
 ### Jeong_WR
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
