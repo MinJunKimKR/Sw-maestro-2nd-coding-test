@@ -66,6 +66,7 @@ https://www.acmicpc.net/problem/1149 - 실버 1 (3.13)
 ### Iheru
 
 https://www.acmicpc.net/problem/15486 - 실버 1 (3.13)
+https://www.acmicpc.net/problem/1932 - 실버 1 (3.13)
 
 ## Binary Search
 
