@@ -53,13 +53,22 @@ https://www.acmicpc.net/problem/2468 - 실버 1 (3.14)
 
 ## 그리디
 
+### Charlie
+https://www.acmicpc.net/problem/1700 - 골드 1 (3.15)
+
 ## 투포인터
 
 ### TaeTae
 
 https://www.acmicpc.net/problem/2470 - 골드 5 (3.15)
 
+### Charlie
+https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
+
 ## 그래프
+
+### Charlie
+https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
 ## DP
 
