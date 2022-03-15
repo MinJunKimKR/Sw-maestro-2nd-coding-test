@@ -21,11 +21,13 @@ https://www.acmicpc.net/problem/17478 - 실버 5 (3.13)
 https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3 - 레벨 2 (3.11)
 
 ### Charlie
+
 https://www.acmicpc.net/problem/2504 - 실버 2 (3.14)
 
 ## 구현
 
 ### Charlie
+
 https://www.acmicpc.net/problem/14719 - 골드 5 (3.14)
 
 ## 완전탐색, BFS, DFS
@@ -35,6 +37,7 @@ https://www.acmicpc.net/problem/14719 - 골드 5 (3.14)
 https://www.acmicpc.net/problem/1062 - 골드 5 (3.11)
 https://www.acmicpc.net/problem/1525 - 골드 2 (3.13)
 https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
+https://www.acmicpc.net/problem/1389 - 실버 1 (3.14)
 
 ### Charlie
 
@@ -42,6 +45,7 @@ https://www.acmicpc.net/problem/14888 - 실버 1 (3.13)
 https://www.acmicpc.net/problem/1062 - 골드 4 (3.14)
 
 ### Jeong_WR
+
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
 https://www.acmicpc.net/problem/4195 - 골드 2 (3.14)
 https://www.acmicpc.net/problem/1937 - 골드 3 (3.15)
@@ -61,6 +65,7 @@ https://www.acmicpc.net/problem/2644 - 실버 2 (3.16)
 ## 그리디
 
 ### Charlie
+
 https://www.acmicpc.net/problem/1700 - 골드 1 (3.15)
 
 ## 투포인터
@@ -70,11 +75,13 @@ https://www.acmicpc.net/problem/1700 - 골드 1 (3.15)
 https://www.acmicpc.net/problem/2470 - 골드 5 (3.15)
 
 ### Charlie
+
 https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 
 ## 그래프
 
 ### Charlie
+
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
 ## DP
@@ -88,6 +95,7 @@ https://www.acmicpc.net/problem/1149 - 실버 1 (3.13)
 https://www.acmicpc.net/problem/15486 - 실버 1 (3.13)
 https://www.acmicpc.net/problem/1932 - 실버 1 (3.14)
 https://www.acmicpc.net/problem/1149 - 실버 1 (3.15)
+
 ## Binary Search
 
 ### TaeTae
@@ -99,19 +107,19 @@ https://www.acmicpc.net/problem/2110 - 골드 5 (3.14)
 # 대시보드
 
 | 풀이문제 수   | MJ  | Charlie | Iheru | TaeTae | JEONG_WR |     |     |     |
-| ------------- | --- | ------- | ----- | ------ | ------ | --- | --- | --- |
-| 5             |     |   ✔      |   ✔    |    ✔   |  ✔   |     |     |     |
-| 10 [골인지점] |     |         |       |        |     |     |     |     |
-| 15            |     |         |       |        |     |     |     |     |
-| 20            |     |         |       |        |     |     |     |     |
-| 25            |     |         |       |        |     |     |     |     |
-| 30            |     |         |       |        |     |     |     |     |
-|               |     |         |       |        |     |     |     |     |
-|               |     |         |       |        |     |     |     |     |
-|               |     |         |       |        |     |     |     |     |
-|               |     |         |       |        |     |     |     |     |
-|               |     |         |       |        |     |     |     |     |
-|               |     |         |       |        |     |     |     |     |
+| ------------- | --- | ------- | ----- | ------ | -------- | --- | --- | --- |
+| 5             |     | ✔       | ✔     | ✔      | ✔        |     |     |     |
+| 10 [골인지점] |     |         |       |        |          |     |     |     |
+| 15            |     |         |       |        |          |     |     |     |
+| 20            |     |         |       |        |          |     |     |     |
+| 25            |     |         |       |        |          |     |     |     |
+| 30            |     |         |       |        |          |     |     |     |
+|               |     |         |       |        |          |     |     |     |
+|               |     |         |       |        |          |     |     |     |
+|               |     |         |       |        |          |     |     |     |
+|               |     |         |       |        |          |     |     |     |
+|               |     |         |       |        |          |     |     |     |
+|               |     |         |       |        |          |     |     |     |
 
 ---
 
@@ -129,8 +137,9 @@ https://www.acmicpc.net/problem/2110 - 골드 5 (3.14)
 
 1.  자신의 닉네임으로 Branch를 생성한다.
 2.  README에 문제를 매일 1개이상 업로드한다 (작성법은 예시 참조)
-    
+
     > **단, 이때 백준은 실버 2~ 골드2, 프로그래머스는 레벨3만을 업로드한다**
+
 3.  자신의 닉네임 폴더를생성하고 문제풀이를 매일 1개 이상 한다.
 4.  완료된 사항은 **main에 PullRequest한뒤 병합한다. '절대 main에서 작업하지 않는다'**
 5.  스터디가 끝난뒤 문제풀이수의 순위를 매겨서 수거된 보증금을 나눠 가진다. 1등은 50%, 2등은 30%, 3등은 20%의 상금을 가져간다.
