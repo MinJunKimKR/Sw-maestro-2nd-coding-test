@@ -55,6 +55,7 @@ https://www.acmicpc.net/problem/10026 - 골드 5 (3.15)
 ### Iheru
 
 https://www.acmicpc.net/problem/7576 - 골드 5 (3.16)
+https://www.acmicpc.net/problem/2644 - 실버 2 (3.16)
 
 ## 그리디
 
@@ -98,7 +99,7 @@ https://www.acmicpc.net/problem/2110 - 골드 5 (3.14)
 
 | 풀이문제 수   | MJ  | Charlie | Iheru | TaeTae | JEONG_WR |     |     |     |
 | ------------- | --- | ------- | ----- | ------ | ------ | --- | --- | --- |
-| 5             |     |   ✔      |       |    ✔   |  ✔   |     |     |     |
+| 5             |     |   ✔      |   ✔    |    ✔   |  ✔   |     |     |     |
 | 10 [골인지점] |     |         |       |        |     |     |     |     |
 | 15            |     |         |       |        |     |     |     |     |
 | 20            |     |         |       |        |     |     |     |     |
