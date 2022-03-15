@@ -55,6 +55,10 @@ https://www.acmicpc.net/problem/2468 - 실버 1 (3.14)
 
 ## 투포인터
 
+### TaeTae
+
+https://www.acmicpc.net/problem/2470 - 골드 5 (3.15)
+
 ## 그래프
 
 ## DP
