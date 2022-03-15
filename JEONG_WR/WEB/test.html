@@ -1,0 +1,63 @@
+<input type='checkbox'
+        id = 'ani'
+       name='animal' 
+       value='dog'
+       > 개
+</input>
+<input type='checkbox'
+        id = 'ani' 
+       name='animal' 
+       value='cat' 
+  > 고양이</input>
+
+<div id='result'> 테스트 용입니다. </div>
+
+<img id="imgId" src="a.PNG">
+<script>
+
+
+
+
+
+
+var x = document.querySelectorAll("input[type='checkbox']");
+
+for(var i = 0 ; i < x.length ; i ++){
+    x[i].addEventListener('change',function() {
+        console.log("test 2 : "+this);
+
+    var txt = document.querySelector('#result').innerText;
+
+    document.getElementById('result').innerText = txt + this.innerHTML;
+    
+    
+    if (this.checked) {
+        console.log("Checkbox is checked.."+ txt + this.value);
+    } else {
+        console.log("Checkbox is not checked.."+ txt + this.value);
+    }
+
+    var img = document.querySelector("#imgID");
+
+    if (this.value == "dog"){
+        img.src = "https://img.huffingtonpost.com/asset/5dd5f293250000ab11d2dbc4.jpeg?cache=A1ADNLUVMY&ops=scalefit_630_noupscale"
+    }
+    if (this.value == "cat"){
+        img.src = 'https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_535745_16226846584668330.jpg';
+
+    }
+
+    
+
+        });
+    console.log("test : "+x[i].value);
+
+
+    var img = document.querySelector("#imgID");
+    img.src = "https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg";
+
+}
+document.getElementById('result').innerText = "테스트 용입니다.";
+
+
+</script>
