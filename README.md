@@ -40,7 +40,9 @@ https://www.acmicpc.net/problem/3055 - 골드 3 (3.15)
 
 https://www.acmicpc.net/problem/14888 - 실버 1 (3.13)
 https://www.acmicpc.net/problem/1062 - 골드 4 (3.14)
-
+https://www.acmicpc.net/problem/1303 - 실버 1 (3.16)
+https://www.acmicpc.net/problem/1697 - 실버 1 (3.16)
+https://www.acmicpc.net/problem/12851 - 골드 5 (3.16)
 ### Jeong_WR
 
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
@@ -114,7 +116,7 @@ https://www.acmicpc.net/problem/2110 - 골드 5 (3.14)
 | 풀이문제 수   | MJ  | Charlie | Iheru | TaeTae | JEONG_WR |     |     |     |
 | ------------- | --- | ------- | ----- | ------ | -------- | --- | --- | --- |
 | 5             |     | ✔       | ✔     | ✔      | ✔        |     |     |     |
-| 10 [골인지점] |     |         |       |        |      ✔     |     |     |     |
+| 10 [골인지점] |     |  ✔       |       |        |      ✔     |     |     |     |
 | 15            |     |         |       |        |          |     |     |     |
 | 20            |     |         |       |        |          |     |     |     |
 | 25            |     |         |       |        |          |     |     |     |
