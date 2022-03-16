@@ -1,0 +1,42 @@
+r,c = map(int,input().split())
+graph = [list(input()) for _ in range(r)]
+from collections import deque
+
+q = deque()
+for i in range(r):
+    for j in range(c):
+        if graph[i][j] == '*':
+            q.append((i,j))
+        if graph[i][j] == 'S':
+            start = (i,j)
+            graph[i][j] = 0
+        if graph[i][j] == 'D':
+            end = (i,j)
+
+q.append(start)
+dx = [-1,0,1,0]
+dy = [0,-1,0,1]
+while q:
+    x, y = q.popleft()
+    if graph[x][y] == '*':
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
+            if 0<=nx<r and 0 <=ny<c and graph[nx][ny] == '.':
+                graph[nx][ny] = '*'
+                q.append((nx,ny))
+    elif graph[x][y] != '*' and graph[x][y] != 'X':
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
+            if 0<=nx<r and 0 <=ny<c:
+                if graph[nx][ny] == '.':
+                    graph[nx][ny] = graph[x][y] + 1
+                    q.append((nx,ny))
+                elif graph[nx][ny] == 'D':
+                    graph[nx][ny] = graph[x][y] + 1
+    
+print('KAKTUS' if graph[end[0]][end[1]] == 'D' else graph[end[0]][end[1]])
+
+
+        
