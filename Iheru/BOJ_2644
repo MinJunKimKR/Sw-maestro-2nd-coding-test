@@ -1,0 +1,16 @@
+n = int(input())
+x, y = map(int,input().split())
+m = int(input())
+family = [[] for _ in range(n+1)]
+for _ in range(m):
+    a, b = map(int,input().split())
+    family[a].append(b)
+    family[b].append(a)
+chon = [-1] * (n+1)
+def dfs(x):
+    for i in family[x]:
+        if chon[i] == -1:
+            chon[i] = chon[x] + 1
+            dfs(i)
+dfs(x)
+print(chon[y] +1 if chon[y] != -1 else -1)
