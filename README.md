@@ -87,20 +87,16 @@ https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
-<<<<<<< HEAD
 
 ### TaeTae
 
 https://www.acmicpc.net/problem/1717 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/1976 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/4195 - 골드 2 (3.16)
-=======
 
 ### MJ
 
 https://www.acmicpc.net/problem/11559 - 골드 4 (3.17)
-
-> > > > > > > eaf1102 (feat: solve 4 proms)
 
 ## DP
 
