@@ -35,6 +35,7 @@ https://www.acmicpc.net/problem/1525 - 골드 2 (3.13)
 https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
 https://www.acmicpc.net/problem/1389 - 실버 1 (3.14)
 https://www.acmicpc.net/problem/3055 - 골드 3 (3.15)
+https://www.acmicpc.net/problem/17086 - 실버 1 (3.16)
 
 ### Charlie
 
@@ -43,6 +44,7 @@ https://www.acmicpc.net/problem/1062 - 골드 4 (3.14)
 https://www.acmicpc.net/problem/1303 - 실버 1 (3.16)
 https://www.acmicpc.net/problem/1697 - 실버 1 (3.16)
 https://www.acmicpc.net/problem/12851 - 골드 5 (3.16)
+
 ### Jeong_WR
 
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.13)
@@ -85,11 +87,20 @@ https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
+<<<<<<< HEAD
+
 ### TaeTae
 
 https://www.acmicpc.net/problem/1717 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/1976 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/4195 - 골드 2 (3.16)
+=======
+
+### MJ
+
+https://www.acmicpc.net/problem/11559 - 골드 4 (3.17)
+
+> > > > > > > eaf1102 (feat: solve 4 proms)
 
 ## DP
 
@@ -105,6 +116,7 @@ https://www.acmicpc.net/problem/1149 - 실버 1 (3.15)
 https://www.acmicpc.net/problem/10844 - 실버 1 (3.16)
 
 ### JEONG_WR
+
 https://www.acmicpc.net/problem/5557 - 골드 5 (3.16)
 
 ## Binary Search
@@ -123,8 +135,8 @@ https://www.acmicpc.net/problem/1939 - 골드 4 (3.17)
 
 | 풀이문제 수   | MJ  | Charlie | Iheru | TaeTae | JEONG_WR |     |     |     |
 | ------------- | --- | ------- | ----- | ------ | -------- | --- | --- | --- |
-| 5             |     | ✔       | ✔     | ✔      | ✔        |     |     |     |
-| 10 [골인지점] |     |  ✔      |       |   ✔    |    ✔     |     |     |     |
+| 5             | ✔   | ✔       | ✔     | ✔      | ✔        |     |     |     |
+| 10 [골인지점] | ✔   | ✔       |       | ✔      | ✔        |     |     |     |
 | 15            |     |         |       |        |          |     |     |     |
 | 20            |     |         |       |        |          |     |     |     |
 | 25            |     |         |       |        |          |     |     |     |
