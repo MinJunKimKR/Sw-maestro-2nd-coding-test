@@ -55,6 +55,7 @@ https://www.acmicpc.net/problem/1941 - 골드 3 (3.13)
 https://www.acmicpc.net/problem/5014 - 골드 5 (3.13)
 https://www.acmicpc.net/problem/2468 - 실버 1 (3.14)
 https://www.acmicpc.net/problem/10026 - 골드 5 (3.15)
+https://www.acmicpc.net/problem/3055 - 골드 4 (3.16)
 
 ### Iheru
 
