@@ -87,6 +87,7 @@ https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
 https://www.acmicpc.net/problem/1717 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/1976 - 골드 4 (3.16)
+https://www.acmicpc.net/problem/4195 - 골드 2 (3.16)
 
 ## DP
 
@@ -116,7 +117,7 @@ https://www.acmicpc.net/problem/2110 - 골드 5 (3.14)
 | 풀이문제 수   | MJ  | Charlie | Iheru | TaeTae | JEONG_WR |     |     |     |
 | ------------- | --- | ------- | ----- | ------ | -------- | --- | --- | --- |
 | 5             |     | ✔       | ✔     | ✔      | ✔        |     |     |     |
-| 10 [골인지점] |     |  ✔       |       |        |      ✔     |     |     |     |
+| 10 [골인지점] |     |  ✔      |       |   ✔    |    ✔     |     |     |     |
 | 15            |     |         |       |        |          |     |     |     |
 | 20            |     |         |       |        |          |     |     |     |
 | 25            |     |         |       |        |          |     |     |     |
