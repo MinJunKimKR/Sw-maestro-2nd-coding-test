@@ -81,6 +81,10 @@ https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
+### TaeTae
+
+https://www.acmicpc.net/problem/1717 - 골드 4 (3.16)
+
 ## DP
 
 ### TaeTae
