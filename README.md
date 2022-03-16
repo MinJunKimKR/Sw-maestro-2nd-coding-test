@@ -16,10 +16,6 @@ https://www.acmicpc.net/problem/17478 - 실버 5 (3.13)
 
 ## 스택,큐,덱
 
-### MJ
-
-https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3 - 레벨 2 (3.11)
-
 ### Charlie
 
 https://www.acmicpc.net/problem/2504 - 실버 2 (3.14)
@@ -38,6 +34,7 @@ https://www.acmicpc.net/problem/1062 - 골드 5 (3.11)
 https://www.acmicpc.net/problem/1525 - 골드 2 (3.13)
 https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
 https://www.acmicpc.net/problem/1389 - 실버 1 (3.14)
+https://www.acmicpc.net/problem/3055 - 골드 3 (3.15)
 
 ### Charlie
 
