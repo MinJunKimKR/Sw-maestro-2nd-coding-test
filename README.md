@@ -61,6 +61,7 @@ https://www.acmicpc.net/problem/3055 - 골드 4 (3.16)
 
 https://www.acmicpc.net/problem/7576 - 골드 5 (3.16)
 https://www.acmicpc.net/problem/2644 - 실버 2 (3.16)
+https://www.acmicpc.net/problem/1939 - 골드 4 (3.17)
 
 ## 그리디
 
@@ -111,6 +112,10 @@ https://www.acmicpc.net/problem/5557 - 골드 5 (3.16)
 ### TaeTae
 
 https://www.acmicpc.net/problem/2110 - 골드 5 (3.14)
+
+### Iheru
+
+https://www.acmicpc.net/problem/1939 - 골드 4 (3.17)
 
 ---
 
