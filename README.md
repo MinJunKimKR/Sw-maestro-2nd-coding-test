@@ -77,6 +77,7 @@ https://www.acmicpc.net/problem/1700 - 골드 1 (3.15)
 ### TaeTae
 
 https://www.acmicpc.net/problem/2470 - 골드 5 (3.15)
+https://www.acmicpc.net/problem/1644 - 골드 5 (3.17)
 
 ### Charlie
 
