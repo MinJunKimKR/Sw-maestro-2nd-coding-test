@@ -120,6 +120,10 @@ https://www.acmicpc.net/problem/2293 - 골드 5 (3.17)
 
 https://www.acmicpc.net/problem/5557 - 골드 5 (3.16)
 
+### Charlie
+
+https://www.acmicpc.net/problem/1149 - 실버 1 (3.17)
+
 ## Binary Search
 
 ### TaeTae
