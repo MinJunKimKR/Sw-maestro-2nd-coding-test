@@ -94,6 +94,7 @@ https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 https://www.acmicpc.net/problem/1717 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/1976 - 골드 4 (3.16)
 https://www.acmicpc.net/problem/4195 - 골드 2 (3.16)
+https://www.acmicpc.net/problem/20040 - 골드 4 (3.17)
 
 ### MJ
 
