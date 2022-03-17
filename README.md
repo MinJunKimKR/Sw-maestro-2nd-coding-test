@@ -36,6 +36,7 @@ https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
 https://www.acmicpc.net/problem/1389 - 실버 1 (3.14)
 https://www.acmicpc.net/problem/3055 - 골드 3 (3.15)
 https://www.acmicpc.net/problem/17086 - 실버 1 (3.16)
+https://www.acmicpc.net/problem/1038 - 골드 5 (3.17)
 
 ### Charlie
 
@@ -89,7 +90,6 @@ https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
 
-
 ### TaeTae
 
 https://www.acmicpc.net/problem/1717 - 골드 4 (3.16)
@@ -137,7 +137,7 @@ https://www.acmicpc.net/problem/1939 - 골드 4 (3.17)
 | 풀이문제 수   | MJ  | Charlie | Iheru | TaeTae | JEONG_WR |     |     |     |
 | ------------- | --- | ------- | ----- | ------ | -------- | --- | --- | --- |
 | 5             | ✔   | ✔       | ✔     | ✔      | ✔        |     |     |     |
-| 10 [골인지점] | ✔   | ✔       |   ✔    | ✔      | ✔        |     |     |     |
+| 10 [골인지점] | ✔   | ✔       | ✔     | ✔      | ✔        |     |     |     |
 | 15            |     |         |       |        |          |     |     |     |
 | 20            |     |         |       |        |          |     |     |     |
 | 25            |     |         |       |        |          |     |     |     |
