@@ -1,0 +1,23 @@
+import heapq
+def solution(jobs)
+    answer, now, i = 0, 0, 0
+    # now는 현재 시점, start는 마지막 작업 마무리 후 시작 시간
+    # i는 처리한 작업의 갯수를 세기 위함
+    start = -1
+    heap = []
+    
+    # 크게 작업의 갯수로 반복문
+    while i <len(jobs):
+        # 현재 남은 작업들 중 가능한 작업 처리
+        for j in jobs:
+            if start < j[0] <= now:
+                heapq.heqppush(heap,[j[1],j[0]])
+            if len(heap) > 0:
+                current = heapq.heappop(heap)
+                start = now 
+                now += current[0]
+                answer += (now - current[1])
+                i += 1
+            else:
+                now += 1
+    return int(answer / len(jobs))
