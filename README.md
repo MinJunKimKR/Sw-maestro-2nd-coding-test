@@ -36,6 +36,7 @@ https://www.acmicpc.net/problem/1600 - 골드 4 (3.13)
 https://www.acmicpc.net/problem/1389 - 실버 1 (3.14)
 https://www.acmicpc.net/problem/3055 - 골드 3 (3.15)
 https://www.acmicpc.net/problem/17086 - 실버 1 (3.16)
+https://www.acmicpc.net/problem/1038 - 골드 5 (3.17)
 
 ### Charlie
 
@@ -89,7 +90,6 @@ https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 ### Charlie
 
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
-
 
 ### TaeTae
 
