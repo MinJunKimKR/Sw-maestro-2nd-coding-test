@@ -22,11 +22,21 @@ https://www.acmicpc.net/problem/17478 - 실버 5 (3.13)
 
 https://www.acmicpc.net/problem/2504 - 실버 2 (3.14)
 
+## 해시
+
+### Iheru
+
+https://programmers.co.kr/learn/courses/30/lessons/42579 - Level 3 (3.18)
+
 ## 구현
 
 ### Charlie
 
 https://www.acmicpc.net/problem/14719 - 골드 5 (3.14)
+
+### Iheru 
+
+https://programmers.co.kr/learn/courses/30/lessons/70130 - Level 3 (3.18)
 
 ## 완전탐색, BFS, DFS
 
@@ -69,6 +79,7 @@ https://www.acmicpc.net/problem/7576 - 골드 5 (3.16)
 https://www.acmicpc.net/problem/2644 - 실버 2 (3.16)
 https://www.acmicpc.net/problem/1939 - 골드 4 (3.17)
 https://www.acmicpc.net/problem/3055 - 골드 4 (3.17)
+https://programmers.co.kr/learn/courses/30/lessons/43164 - Level 3 (3.18)
 
 ## 그리디
 
