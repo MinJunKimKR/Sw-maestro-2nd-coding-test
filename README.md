@@ -92,6 +92,7 @@ https://www.acmicpc.net/problem/1806 - 골드 4 (3.15)
 ### Charlie
 
 https://www.acmicpc.net/problem/2252 - 골드 3 (3.15)
+https://www.acmicpc.net/problem/11404 - 골드 4 (3.18)
 
 ### TaeTae
 
