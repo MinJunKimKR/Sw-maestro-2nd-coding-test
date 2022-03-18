@@ -106,6 +106,7 @@ https://www.acmicpc.net/problem/11559 - 골드 4 (3.17)
 ### TaeTae
 
 https://www.acmicpc.net/problem/1149 - 실버 1 (3.13)
+https://www.acmicpc.net/problem/12865 - 골드 5 (3.18)
 
 ### Iheru
 
